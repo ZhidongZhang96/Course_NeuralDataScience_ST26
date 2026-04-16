@@ -1,3 +1,6 @@
+Coding lab for 'Neural Data Science 2026' in GTC, Tuebingen.
+
+
 # Repository for Neural Data Science
 
 To work in this repository install the required dependencies and tools by running `setup.sh`.
