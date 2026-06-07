@@ -1,8 +1,28 @@
-Coding lab for 'Neural Data Science 2026' in GTC, Tuebingen.
-
-> data stored at `data/` are not uploaded due to the limitation of Github. 
-
 # Repository for Neural Data Science
+
+
+Coding lab for 'Neural Data Science 2026' in GTC, Tübingen.
+
+The labs were completed as a group (with **[@Yuzhe Han](https://github.com/Hzzz12138)** and **[@Bach Nguyen](https://github.com/bachnguyenTE)**), through individual coding and panel discussions. This repository contains the version initialized by **[@Zhidong Zhang](https://github.com/ZhidongZhang96)**.
+
+> Data in the folder `data/` are not included due to GitHub size limits. 
+
+The notebooks are stored in the folder `notebooks/`; their contents are as follows:
+
+| Notebook| Content|
+|:--:|:---:|
+|1|Spike detection & feature extraction (PCA)|
+|2|Spike sorting (clustering and correlograms)|
+|3|2-photon calcium recordings to spike trains|
+|4|Spike trains & tuning curve|
+|5|Receptive field|
+|6|Latent variable model (Poisson GPFA)|
+|7|tba|
+|8|tba|
+
+
+
+## Instructions
 
 To work in this repository install the required dependencies and tools by running `setup.sh`.
 This sets up the correct folders initializes a git repository, installs `pre-commit` hooks, conda / python packages and configures git to use `nbdime`.
