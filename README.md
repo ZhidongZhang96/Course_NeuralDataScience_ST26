@@ -17,8 +17,8 @@ The notebooks are stored in the folder `notebooks/`; their contents are as follo
 |4|Spike trains & tuning curve|
 |5|Receptive field|
 |6|Latent variable model (Poisson GPFA)|
-|7|Transcriptomics|
-|8|tba|
+|7|Single cell transcriptomics|
+|8|Neural Morphologies (statistics & density maps)|
 
 
 
