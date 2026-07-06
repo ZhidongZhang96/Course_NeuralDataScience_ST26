@@ -20,7 +20,7 @@ The notebooks are stored in the folder `notebooks/`; their contents are as follo
 |7|Single cell transcriptomics|
 |8|Neural Morphologies (statistics & density maps)|
 
-
+> The final course project: [NDS-V1-RunningNaturalMod](https://github.com/ZhidongZhang96/NDS-V1-RunningNaturalMod)
 
 ## Instructions
 
